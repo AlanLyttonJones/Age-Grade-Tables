@@ -22,5 +22,5 @@ Working closely with Rex Harvey through the spring of 2004, Alan and Rex develop
 * Ken Young from the Association of Road Racing Statisticians was helpful in evaluating the 2015 tables.
 * The 2015 tables were approved in January 2015 by both the USATF Masters Long Distance Running committee chaired by Don Lein and by the WMA.
 # Proposed 2020 Long Distance Running Tables
-* Working with Tom Bernhard who provided the single-age records, new proposed standards have been developed. The proposed standards are included in this repository: FemaleRoadStd2020.xlxs and MaleRoadStd2020.xlxs.
-* In addition the working files that produced the standards are included: maleRoad2020.xlxs and femalRoad2020.xlxs 
+* Working with Tom Bernhard, who provided the single-age records, new proposed standards have been developed. The proposed standards are included in this repository: FemaleRoadStd2020.xlxs and MaleRoadStd2020.xlxs.
+* In addition the working files that produced the standards are included: maleRoad2020.xlxs and femaleRoad2020.xlxs 
