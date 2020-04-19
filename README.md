@@ -1,6 +1,6 @@
 # Age-Grade-Tables
 Tables for grading road-running performances based on gender and age.
-These tables have been approved by the [USA Track and Field Federation](http://usatf.org) and by [World Masters Athletics](http://world-masters-athletics.com).
+The 2015 tables have been approved by the [USA Track and Field Federation](http://usatf.org) and by [World Masters Athletics](http://world-masters-athletics.com). This repository contains proposed 2020 standards plus the working files used to produce the standards.
 ## Background
 In 1989 the National Masters News and the World Association of Veteran Athletes (WAVA) compiled a booklet, Masters Age-Graded Tables, of tables for grading athletic performances based on sex and age. These tables covered all standard track and field events plus standard long distance running events and race-walking events. They only covered ages 30 and above. These tables were compiled by a committee composed of Rodney Charnock, Peter Mundle, Charles Phillips, Gary Miller, Bob Fine, Rex Harvey, Phil Mulkey, Bob Stone, Mike Tymn, Christel Miller, Phil Raschker, and Al Sheahen.
 In 1994 the tables were updated and were extended to ages 8 through 19 in Age-Graded Tables, National Masters News, P.O. Box 2372, Van Nuys, CA 91404.
