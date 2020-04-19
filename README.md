@@ -21,4 +21,6 @@ Working closely with Rex Harvey through the spring of 2004, Alan and Rex develop
 * When a new world record, 2:02:57, for the men's Marathon was set on September 28, 2014 at the Berlin Marathon by 30-year-old Denis Kimetto of Kenya, it generated a blog by Robert James Reese from Runner's World magazine. He suggested that it may be time to update the age-grade tables. This inspired us to check on how many times had changed in the almost ten years since the men's tables were established and the almost five years since the women's tables were updated.
 * Ken Young from the Association of Road Racing Statisticians was helpful in evaluating the 2015 tables.
 * The 2015 tables were approved in January 2015 by both the USATF Masters Long Distance Running committee chaired by Don Lein and by the WMA.
-
+# Proposed 2020 Long Distance Running Tables
+* Working with Tom Bernhard who provided the single-age records, new proposed standards have been developed. The proposed standards are included in this repository: FemaleRoadStd2020.xlxs and MaleRoadStd2020.xlxs.
+* In addition the working files that produced the standards are included: maleRoad2020.xlxs and femalRoad2020.xlxs 
