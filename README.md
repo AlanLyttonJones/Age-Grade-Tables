@@ -7,7 +7,6 @@ In 1994 the tables were updated and were extended to ages 8 through 19 in Age-Gr
 ## New Method developed
 In 2002 Alan Jones scored a race in which it seemed to him that the younger runners were not being treated fairly. He began, at that time, to create new tables using a new method of fitting curves to the data. After some months he began to work with Rex Harvey and Chuck Phillips. In early 2003 Alan endorsed Chuck's work and stopped working on his own. Then in late 2003 Rex Harvey took a close look at Chuck's tables and found some errors due to some fast performances that Chuck did not know about.
 Working closely with Rex Harvey through the spring of 2004, Alan and Rex developed new tables for track distance running and road races up to 200 km. 
-
 # 2004/2006 (2002) Tables
 * The first tables done by Alan Jones and Rex Harvey were called the WMA 2002 tables. However, work on the male tables was completed in 2004 and the female in 2006 so we refer to them as the male 2004 and female 2006 tables.
 * These tables include both the in-stadium events and road events.
