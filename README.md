@@ -1,6 +1,6 @@
 # Age-Grade-Tables
-Tables for grading road-running performances based on gender and age.
-The 2015 tables have been approved by the [USA Track and Field Federation](http://usatf.org) and by [World Masters Athletics](http://world-masters-athletics.com). This repository contains proposed 2020 standards plus the working files used to produce the standards.
+Tables for grading road-running performances based on gender and age. 
+
 ## Background
 In 1989 the National Masters News and the World Association of Veteran Athletes (WAVA) compiled a booklet, Masters Age-Graded Tables, of tables for grading athletic performances based on sex and age. These tables covered all standard track and field events plus standard long distance running events and race-walking events. They only covered ages 30 and above. These tables were compiled by a committee composed of Rodney Charnock, Peter Mundle, Charles Phillips, Gary Miller, Bob Fine, Rex Harvey, Phil Mulkey, Bob Stone, Mike Tymn, Christel Miller, Phil Raschker, and Al Sheahen.
 In 1994 the tables were updated and were extended to ages 8 through 19 in Age-Graded Tables, National Masters News, P.O. Box 2372, Van Nuys, CA 91404.
@@ -22,6 +22,6 @@ Working closely with Rex Harvey through the spring of 2004, Alan and Rex develop
 * Ken Young from the Association of Road Racing Statisticians was helpful in evaluating the 2015 tables.
 * The 2015 tables were approved in January 2015 by both the USATF Masters Long Distance Running committee chaired by Don Lein and by the WMA.
 # 2020 Long Distance Running Tables
-* Working with Tom Bernhard, who provided the single-age records, proposed standards have been developed. The standards are included in this repository: FemaleRoadStd2020.xlxs and MaleRoadStd2020.xlxs.
+* Working with Tom Bernhard, who provided the single-age records, 2020 standards have been developed. The standards are included in this repository: FemaleRoadStd2020.xlxs and MaleRoadStd2020.xlxs.
 * In addition the working files that produced the standards are included: maleRoad2020.xlxs and femaleRoad2020.xlxs 
-* The 2020 tables were approved on May 20, 2020 by the Long Distance Running Council (LDR) of USAT Track & Field (USATF)
+* The 2020 tables were approved on May 20, 2020 by the Masters Long Distance Running Council (MLDR) of [USA Track and Field Federation](http://usatf.org)
