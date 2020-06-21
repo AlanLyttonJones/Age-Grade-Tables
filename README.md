@@ -22,6 +22,8 @@ Working closely with Rex Harvey through the spring of 2004, Alan and Rex develop
 * Ken Young from the Association of Road Racing Statisticians was helpful in evaluating the 2015 tables.
 * The 2015 tables were approved in January 2015 by both the USATF Masters Long Distance Running committee chaired by Don Lein and by the WMA.
 # 2020 Long Distance Running Tables
-* Working with Tom Bernhard, who provided the single-age records, 2020 standards have been developed. The standards are included in this repository: FemaleRoadStd2020.xlxs and MaleRoadStd2020.xlxs.
-* In addition the working files that produced the standards are included: maleRoad2020.xlxs and femaleRoad2020.xlxs 
+* Unfortunately, Ken Young died in 2018. Tom Bernard took on the task of updating the single-age bests.
+* Working with Tom Bernhard, 2020 standards have been developed. The standards are included in this repository: FemaleRoadStd2020.xlxs and MaleRoadStd2020.xlxs.
+* In addition, the working files that produced the standards are included: maleRoad2020.xlxs and femaleRoad2020.xlxs. A document in the docs folder, Creating Road Running Age Tables.docx, describes how the tables are produced. 
+* Another document in the folder docs, Evaluating 2020 Standards Against 2019 Rankings.docx, compares top perforamces by masters athletes using the 2015 standards and the 2020 standards.
 * The 2020 tables were approved on May 20, 2020 by the Masters Long Distance Running Council (MLDR) of [USA Track and Field Federation](http://usatf.org)
