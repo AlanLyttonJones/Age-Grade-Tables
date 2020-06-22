@@ -22,7 +22,7 @@ Working closely with Rex Harvey through the spring of 2004, Alan and Rex develop
 * The 2015 tables were approved in January 2015 by both the USATF Masters Long Distance Running committee chaired by Don Lein and by the WMA.
 # 2020 Long Distance Running Tables
 * Unfortunately, Ken Young died in 2018. Tom Bernard took on the task of updating the single-age bests.
-* Working with Tom Bernhard, 2020 standards have been developed. The standards are included in this repository: FemaleRoadStd2020.xlxs and MaleRoadStd2020.xlxs.
-* In addition, the working files that produced the standards are included: maleRoad2020.xlxs and femaleRoad2020.xlxs. A document in the docs folder, Creating Road Running Age Tables.docx, describes how the tables are produced. 
-* Another document in the folder docs, Evaluating 2020 Standards Against 2019 Rankings.docx, compares top performances by masters athletes using the 2015 standards and the 2020 standards.
+* Working with Tom Bernhard, 2020 standards have been developed. The standards are included in this repository in the '2020 Files" directory: FemaleRoadStd2020.xlxs and MaleRoadStd2020.xlxs.
+* In addition, the working files that produced the standards are included in the '2020 Files' directory: maleRoad2020.xlxs and femaleRoad2020.xlxs. A document in the docs folder, Creating Road Running Age Tables.docx, describes how the tables are produced. This will allow someone to fork this repository and create new age-group tables for, say, 2025.
+* Another document in the folder docs, Evaluating 2020 Standards Against 2019 Rankings.docx, compares top performances by masters athletes using the 2015 standards and the 2020 standards. The comparisons were done by Tom Bernhard. Each comparison is followed with an explanation of the differences and, in all cases except the road mile, includes a graph showing the differences between the 2015 and 2020 standards.
 * The 2020 tables were approved on May 20, 2020 by the Masters Long Distance Running Council (MLDR) of [USA Track and Field Federation](http://usatf.org)
