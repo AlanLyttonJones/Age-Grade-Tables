@@ -14,12 +14,13 @@ OC,0:03:47,0:12:59,0:15:42,0:16:54,0:21:12,0:21:19,0:26:43,0:32:22,0:40:55,0:44:
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
+#include <direct.h>
 
 static char * male_table = "../MaleRoadStd2020.csv";
 static char * female_table = "../FemaleRoadStd2020.csv";
 static char oc[2][22][16];		// Hold open class times as strings oc[0] == male, oc[1] = female
 static char age_factors[2][100][22][16];
-static char* tables = "../RunScoreTables/";
+static char* outputDir = "../RunScoreTables/";
 
 static void nullOutCommas(char *p)
 {
@@ -28,15 +29,16 @@ static void nullOutCommas(char *p)
 		if(*p == ',')
 			*p = 0;
 	}
-  p--;
-  *p = 0; // Turn terminating \n into null.
+	p--;
+	*p = 0; // Turn terminating \n into null.
 }
+
 // Write out one table for RunScore
 static void age_grade(char *filename,int index)
 {
 	static char *gender = "MF";
-  static char fn[64];
-  sprintf(fn, "%s%s", tables, filename);
+	static char fn[64];
+	sprintf(fn, "%s%s", outputDir, filename);
 	FILE *fp = fopen(fn,"wt");
 	if(fp) {
 		fprintf(fp,"M  %s\n",oc[0][index]);
@@ -49,6 +51,7 @@ static void age_grade(char *filename,int index)
 		fclose(fp);
 	}
 }
+
 int _tmain(int argc, _TCHAR* argv[])
 {
 	char buffer[512];
@@ -99,10 +102,14 @@ int _tmain(int argc, _TCHAR* argv[])
 			fclose(fp);
 		}
 	}
+
+	// Create output directory
+	mkdir(outputDir);
+
 	// Everything is in memory. Write out files
 	//    1      2    3    4      5    6      7     8     9     10      11    12     13    14    15       16    17      18     19     20       21
 	//Age,1 Mile,5 km,6 km,4 Mile,8 km,5 Mile,10 km,12 km,15 km,10 Mile,20 km,H. Mar,25 km,30 km,Marathon,50 km,50 Mile,100 km,150 km,100 Mile,200 km
-	
+
   age_grade("AgeGrade.1mi", 1);
   age_grade("AgeGrade.5k", 2);
 	age_grade("AgeGrade.6k", 3);
@@ -127,4 +134,3 @@ int _tmain(int argc, _TCHAR* argv[])
 	age_grade("AgeGrade.200k", 21);
 	return 0;
 }
-
